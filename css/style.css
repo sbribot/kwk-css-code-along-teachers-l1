@@ -30,6 +30,5 @@ body {
 
 #container {
   height: 300px;
-  margin-top: auto;
-  margin-bottom: auto;
+  margin-top: 50%;
 }
