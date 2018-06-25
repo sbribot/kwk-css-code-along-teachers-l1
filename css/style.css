@@ -7,6 +7,6 @@ body {
   color: #6E400B;
   background-image: url("http://nuestrocuriosopaladar.com/wp-content/uploads/watercolour-abstract-art-abstract-watercolor-painting-best-25-abstract-watercolor-art-ideas.jpg");
 }
-.name {
+#name {
   font-family: 'Shrikhand', cursive;
 }
