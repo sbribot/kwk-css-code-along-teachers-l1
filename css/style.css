@@ -5,7 +5,7 @@
 body {
   background-color: ivory;
   color: #6E400B;
-  background-image: url("http://nuestrocuriosopaladar.com/wp-content/uploads/watercolour-abstract-art-abstract-watercolor-painting-best-25-abstract-watercolor-art-ideas.jpg");
+  /*background-image: url("http://nuestrocuriosopaladar.com/wp-content/uploads/watercolour-abstract-art-abstract-watercolor-painting-best-25-abstract-watercolor-art-ideas.jpg");*/
 }
 #name {
   font-family: 'Shrikhand', cursive;
@@ -14,6 +14,6 @@ body {
   margin-bottom: 100px;
   margin-left: 100px;
   margin-right: 100px;
-  background-color: white;
+  background-color: ivory;
 }
 
