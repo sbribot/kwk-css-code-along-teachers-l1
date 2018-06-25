@@ -11,16 +11,15 @@ body {
 #name {
   font-family: 'Song Myung', serif;
   font-size: 50px;
+  line-height: 50px;
   text-align: center;
   margin-top: 300px;
   margin-bottom: 100px;
   margin-left: 100px;
   margin-right: 100px;
   background-color: ivory;
-  border-bottom: solid 3px; 
+  border-bottom: solid 3px;
+  
 }
 
-#line {
-  height: 100px ;
-  width: 100px;
-}
+
