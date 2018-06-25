@@ -6,6 +6,7 @@
 body {
   background-color: red;
   color: black;
+  padding: 0;
 
 }
 #name {
