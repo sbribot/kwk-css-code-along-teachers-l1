@@ -6,7 +6,10 @@
 body {
   background-color: red;
   color: black;
-
+  margin-top: 200px;
+  margin-bottom: 200px;
+  margin-left: 200px;
+  margin-right: 200px;
 }
 #name {
   font-family: 'Song Myung', serif;
@@ -28,7 +31,3 @@ body {
   padding: 0;
 }
 
-#container {
-  margin-top: 50%
-  margin-bottom: 50%;
-}
