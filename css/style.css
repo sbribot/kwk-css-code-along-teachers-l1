@@ -4,7 +4,7 @@
 
 
 body {
-  background-color: red;
+  background-color: ivory;
   color: black;
   margin-top: 250px;
   margin-bottom: 200px;
@@ -15,7 +15,7 @@ body {
   font-family: 'Song Myung', serif;
   font-size: 100px;
   text-align: center;
-  background-color: white;
+  background-color: ivory;
   border-bottom: solid 3px;
   margin: 0px;
   padding: 0;
@@ -26,7 +26,7 @@ body {
   font-family: 'Song Myung', serif;
   font-size: 20px;
   text-align: center;
-  background-color: white;
+  background-color: ivory;
   margin: 0px;
   padding: 0;
 }
